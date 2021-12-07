@@ -1,0 +1,5 @@
+
+workspace 
+  tab main
+    buff srtfix:srtfix
+    buff makefile:makefile
